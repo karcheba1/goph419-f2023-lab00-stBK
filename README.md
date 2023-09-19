@@ -1,1 +1,1 @@
-# goph419-f2023-lab00-stBK
+# GOPH 419 - F2023 - Lab 0
